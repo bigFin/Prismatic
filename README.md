@@ -31,3 +31,8 @@ Like what you see?
 * Hire me to make custom research equipment 
 * Hire me to find the optimal light spectrum
 * Hire me as a consultant for your photobiology needs
+
+# Links
+[WeVitro](https://wevitro.com/)
+[GRIPP](Http://http://gripp.ca/)
+[R4Photobiology](https://www.r4photobiology.info/)
