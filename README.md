@@ -1,6 +1,6 @@
 # Prismatic is open-source software / hardware for photobiology research 
 ## Prismatic was designed and built by **Finlay A.A. Small** in association with the the AMP Jones Lab and the Gosling Research institute for Plant Preservation at *The University of Guelph*.
-We are developing tools to make it easy do plant science research.
+I make tools that make plant science research easy.
 
 
 # What is Prismatic?
