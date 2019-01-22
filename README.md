@@ -24,7 +24,8 @@ I built Prismatic to optimize light spectrum for organogenesis and regeneration 
 ### DIY
 * Code for sheculing interface built on NodeMCU
 * PCB schematics and layouts (Eagle)
-Bill of materials
+* Bill of materials
+
 ### Pay me
 Like what you see? 
 * Hire me to make custom research equipment 
