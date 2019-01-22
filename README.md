@@ -11,7 +11,7 @@ Has a swanky wifi-programmable UI for programming advanced schedules
 ### Prismatic Photon: a multi-channel LED array
 A 9 channel LED array designed for the WeVitro dogBox tissue culture bioreactor
 
-### How do you use Prismatic?
+### How is Prismatic used?
 I built Prismatic to optimize light spectrum for organogenesis and regeneration in tissue culture. I use the Central Composite Rotatable Design to generate a response surface and find the optimum mixture of spectra. I then validate this using replicated studies. 
 
 ## How did I make this stuff?
