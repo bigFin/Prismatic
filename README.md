@@ -15,15 +15,18 @@ A 9 channel LED array designed for the WeVitro dogBox tissue culture bioreactor
 I built Prismatic to optimize light spectrum for organogenesis and regeneration in tissue culture. I use the Central Composite Rotatable Design to generate a response surface and find the optimum mixture of spectra. I then validate this using replicated studies. 
 
 ## How did I make this stuff?
-**Programming** C, C++, HTML, and JQuery on NodeMCU
-**Circuit design** Eagle
-**PCB fabrication**
-**PCB assembly**
+* **Programming** C, C++, HTML, and JQuery on NodeMCU
+* **Circuit design** Eagle
+* **PCB fabrication**
+* **PCB assembly**
 
 ## What is available here
 ### DIY
-Code for sheculing interface built on NodeMCU
-PCB schematics and layouts (Eagle)
+* Code for sheculing interface built on NodeMCU
+* PCB schematics and layouts (Eagle)
 Bill of materials
 ### Pay me
-Like what you see? Hire me to make custom research equipment for you. Hire me to use my equipment to find the optimal light spectrum for you.
+Like what you see? 
+* Hire me to make custom research equipment 
+* Hire me to find the optimal light spectrum
+* Hire me as a consultant for your photobiology needs
