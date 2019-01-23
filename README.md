@@ -1,8 +1,4 @@
 # Prismatic is open-source software / hardware for photobiology research 
-Prismatic was designed and built by **Finlay A.A. Small** in association with the the AMP Jones Lab and the Gosling Research institute for Plant Preservation at *The University of Guelph*.
-I make tools that make plant science research easy.
-
-
 ## What is Prismatic?
 ### Prismatic Pulse: a multi-channel LED driver
 A multi-channel constant-voltage LED driver built on NodeMCU
@@ -27,11 +23,16 @@ I built Prismatic to optimize light spectrum for organogenesis and regeneration 
 * Bill of materials
 * Design of experiments: CCRD, RSM
 
+
+Prismatic was designed and built by **Finlay A.A. Small** in association with the the AMP Jones Lab and the Gosling Research institute for Plant Preservation at *The University of Guelph*.
+
+I make tools that make plant science research easy.
+
 ### Pay me
 Like what you see? 
-* Hire me to make custom research equipment 
-* Hire me to find the optimal light spectrum
-* Hire me as a consultant for your photobiology needs
+* I make custom research equipment 
+* I find the optimal light spectrum for your crop
+* I consult for your photobiology, plant science, and automation needs
 
 # Links
 [WeVitro](https://wevitro.com/)
