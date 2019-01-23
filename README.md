@@ -22,8 +22,8 @@ Each Prismatic module can be independently programmed, try growing your plants u
 * **PCB fabrication**
 * **PCB assembly**
 
-## What is available here
-### DIY
+# What's here for me?
+## DIY
 * Code for sheculing interface built on NodeMCU
 * PCB schematics and layouts (Eagle)
 * Bill of materials
@@ -31,7 +31,7 @@ Each Prismatic module can be independently programmed, try growing your plants u
 
 
 
-# Pay me
+## Pay me
 Prismatic was designed and built by **Finlay A.A. Small** in association with the the AMP Jones Lab and the Gosling Research institute for Plant Preservation at *The University of Guelph*.
 
 Like what you see? 
