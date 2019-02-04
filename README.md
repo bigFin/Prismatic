@@ -5,6 +5,7 @@ Prismatic is a modular, wifi programmable, multi-channel LED light that gives yo
 
 I built Prismatic to optimize light spectrum for organogenesis and regeneration in tissue culture, but it can be used for any precision lighting, photobiology, specialty plant growth, or plant propagation situation.  
 
+## Prismatic V2 Coming March 2019
 ### Pulse: a multi-channel LED driver
 A multi-channel LED driver built on NodeMCU (with constant-voltage and constant-current versions, depending on your needs).
 * intuitive wifi-programmable UI for programming advanced schedules
@@ -12,6 +13,10 @@ A multi-channel LED driver built on NodeMCU (with constant-voltage and constant-
 
 ### Photon: a multi-channel LED array
 A 9 channel LED array designed for the WeVitro dogBox tissue culture bioreactor
+
+## Prismatic V1 AKA FinMax 
+![Infographic Prismatic V1 AKA FinMax](https://github.com/bigFin/Prismatic/blob/master/infoGraphic8.jpg)
+
 
 ### How is Prismatic used?
 Each Prismatic module can be independently programmed, try growing your plants under different conditions and see how they respond. Perform controlled experiments using the Central Composite Rotatable Design. Generate a response surface and find the optimum mixture of spectra. I then validate this using replicated studies. 
@@ -23,7 +28,7 @@ Each Prismatic module can be independently programmed, try growing your plants u
 * **PCB assembly**
 
 # What's here for me?
-## DIY
+## DIY - Prismatic is going open-source, check back soon for
 * Code for sheculing interface built on NodeMCU
 * PCB schematics and layouts (Eagle)
 * Bill of materials
