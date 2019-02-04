@@ -36,10 +36,10 @@ Each Prismatic module can be independently programmed, try growing your plants u
 
 
 
-## Pay me
+## Like what you see?
 Prismatic was designed and built by **Finlay A.A. Small** in association with the the AMP Jones Lab and the Gosling Research institute for Plant Preservation at *The University of Guelph*.
 
-Like what you see? 
+Hire me!
 * I make custom research equipment 
 * I find the optimal light spectrum for your crop
 * I consult for your plant production and science needs
