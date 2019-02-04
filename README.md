@@ -28,8 +28,8 @@ Each Prismatic module can be independently programmed, try growing your plants u
 * **PCB assembly**
 
 # What's here for me?
-## DIY - Prismatic is going open-source, check back soon for
-* Code for sheculing interface built on NodeMCU
+## DIY - Prismatic is going open-source, check back soon for:
+* Code for an advanced sheculing interface (built on NodeMCU)
 * PCB schematics and layouts (Eagle)
 * Bill of materials
 * Design of experiments: CCRD, RSM
