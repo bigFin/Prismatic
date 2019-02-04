@@ -15,7 +15,7 @@ A multi-channel LED driver built on NodeMCU (with constant-voltage and constant-
 A 9 channel LED array designed for the WeVitro dogBox tissue culture bioreactor
 
 ## Prismatic V1 AKA FinMax 
-![Infographic Prismatic V1 AKA FinMax](Prismatic/infoGraphic8.jpg)
+![Infographic Prismatic V1 AKA FinMax](https://github.com/bigFin/Prismatic/blob/master/infoGraphic8.jpg?raw=true)
 
 
 ### How is Prismatic used?
