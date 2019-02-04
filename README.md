@@ -24,8 +24,8 @@ Each Prismatic module can be independently programmed, try growing your plants u
 ## How did I make this stuff?
 * **Programming** C, C++, HTML, and JQuery on NodeMCU
 * **Circuit design** Eagle
-* **PCB fabrication**
-* **PCB assembly**
+* **PCB fabrication** www.jlcpcb.com
+* **PCB assembly** Made to order, assembled by hand in Guelph, Canada
 
 # What's here for me?
 ## DIY - Prismatic is going open-source, check back soon for:
